@@ -107,12 +107,4 @@ Python Learner | Aspiring Developer | Tech Enthusiast
 ⭐ If you like this project, feel free to star the repository!
 
 
----
 
-If you want, I can:
-- Rewrite this README to sound **more advanced**
-- Add **screenshots section**
-- Add **license (MIT)**
-- Convert it into **resume bullet points**
-
-Just say it, Coco 😏🔥
